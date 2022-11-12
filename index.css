@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif, monospace;
+  color: #777;
+  min-height: 100%;
+}
+
+h2 {
+  text-align: center;
+  padding: 20px;
+  letter-spacing: 1px;
+  font-size: 30px;
+  margin-top: 30px;
+  font-weight: normal;
+  border-bottom: thin solid #e4e4e4;
+  color: #888;
+}
